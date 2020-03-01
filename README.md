@@ -1,2 +1,3 @@
-# bot templates
- Starter bot templates for various services
+# Bot templates
+
+Starter bot templates for various services.
