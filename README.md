@@ -1,3 +1,9 @@
-# Bot templates
+## Bot templates
 
-Starter bot templates for various services.
+Starter python bot templates for various services.
+
+### Services
+
+- Twitter (http://docs.tweepy.org/)
+- Reddit (https://praw.readthedocs.io/)
+- Telegram (https://python-telegram-bot.org/)
